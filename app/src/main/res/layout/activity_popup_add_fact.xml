@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp">
+
+    <EditText
+        android:layout_margin="5dp"
+        android:id="@+id/Fakt"
+        android:textAlignment="center" android:hint="Kompletter Fakt"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"/>
+
+    <EditText
+        android:layout_margin="5dp"
+        android:id="@+id/FrageZuFakt"
+        android:textAlignment="center" android:hint="Eine Frage zum Fakt"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"/>
+
+    <EditText
+        android:id="@+id/AntwortAufFrage"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_margin="5dp"
+        android:hint="Antwort zur Frage"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/adder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_gravity="center"
+        android:onClick="saveFakt"
+
+
+        />
+
+
+</LinearLayout>

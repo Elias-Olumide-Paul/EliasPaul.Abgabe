@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625207670074",
+    "firebase_url": "https://appentwicklung-eliaspaul-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "appentwicklung-eliaspaul",
+    "storage_bucket": "appentwicklung-eliaspaul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625207670074:android:09b44f182f3e48780b0c03",
+        "android_client_info": {
+          "package_name": "com.example.appentwicklungabgabe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625207670074-tlanuoirvui8ej381ouanvvd039hmrg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGOMwi1znhCdtR_GmPSAEaweOmBram3nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625207670074-tlanuoirvui8ej381ouanvvd039hmrg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
